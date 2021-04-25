@@ -1,1 +1,1 @@
-# -lk-html-projesi-vscode
+# ilk-html-projesi-vscode
